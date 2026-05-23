@@ -2,9 +2,9 @@
 > Mock Startup Initiative | E-Cell
 
 ## 👤 Member
-**Name:** Shriti Gupta
-**GitHub:** @shritigupta007-alt
-**Duration:** 22 May – 2 June 2026
+**Name:** Shriti Gupta\n
+**GitHub:** @shritigupta007-alt\n
+**Duration:** 22 May – 2 June 2026\n
 
 ## 🎯 Project Purpose
 This repository is the central home for all technical tasks completed
